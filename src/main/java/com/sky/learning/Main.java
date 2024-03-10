@@ -28,7 +28,7 @@ public class Main {
                 output = num1 * num2;
                 break;
             case '/':
-                output = num1 / num1;
+                output = num1 / num2;
                 break;
             default:
                 System.out.println("Please Enter Valid Operator");
